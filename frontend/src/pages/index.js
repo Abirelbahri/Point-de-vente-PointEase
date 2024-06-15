@@ -1,0 +1,13 @@
+export { default as Home } from "./home/Home";
+export { default as Login } from "./auth/Login";
+export { default as Signup } from "./auth/signup";
+export { default as Pos } from "./pos/Pos";
+export { default as Suppliers } from "./supplier/Supplier";
+export { default as AddSuppliers } from "./supplier/AddNewSupp";
+export { default as Stock } from "./stock/Stock";
+export { default as Dashboard } from "./dashboard/Dashboard";
+export { default as ProductList } from "./dashboard/ProductsList";
+export { default as Clients } from "./clients/Clients";
+export { default as AddClient } from "./clients/AddClient";
+export { default as Settings } from "./settings/Settings";
+export { default as NotFound } from "./NotFound/NotFound";

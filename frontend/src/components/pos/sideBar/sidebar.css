@@ -1,0 +1,26 @@
+@media screen and (min-width: 600px) {
+    .sidebar{
+        position: sticky;
+        left: 0;
+        top: 0;
+        background-color: #fafafa;
+        height: 100vh;
+        overflow-y: hidden;
+        box-shadow: 1px 0 10px 1px rgba(0, 0, 255, .1);
+    }
+    
+    .sidebar-items:hover{
+        color: #0E6EB8;
+        border-right: 3px solid #0E6EB8;
+        cursor: pointer;
+    }
+    
+    .sidebar-items.active{
+        color: #0E6EB8;
+        border-right: 3px solid #0E6EB8;
+    }
+    .mb-lg-5{
+        color : #0E6EB8;       
+    }
+
+}

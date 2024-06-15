@@ -1,0 +1,22 @@
+.navbar{
+    position: sticky;
+    background-color: #fafafa;
+    box-shadow: 1px 0 10px 1px rgba(0, 0, 255, .1);
+    padding: 0 !important;
+}
+
+.nav-items:hover{
+    color: #0E6EB8;
+    cursor: pointer;
+    border-bottom: 3px solid #0E6EB8;
+}
+
+.nav-items.active{
+    color: #0d6efd;
+    border-bottom: 3px solid #0E6EB8;
+}
+
+.col-2{
+    color : #0E6EB8;       
+}
+

@@ -1,0 +1,10 @@
+export { default as NavBar } from "./navBar/NavBar";
+export { default as PoseContent } from "./content/PoseContent";
+export { default as ClientsContent } from "./content/ClientsContent";
+export { default as SuppliersContent } from "./content/SuppliersContent";
+export { default as ProductsListContent } from "./content/ProductsListContent";
+export { default as StockContent } from "./content/StockContent";
+export { default as DashboardContent } from "./content/DashboardContent";
+export { default as SettingsContent } from "./content/SettingsContent";
+export { default as SideBar } from "./sideBar/SideBar";
+export { default as Cart } from "./cart/Cart";

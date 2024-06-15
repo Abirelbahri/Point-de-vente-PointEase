@@ -1,0 +1,35 @@
+.calculator {
+    width: 500px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-left: 1px;
+  }
+  
+  .calculator input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  .button-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
+  
+  button {
+    width: 120px;
+    height: 35px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .clear-button {
+    background-color: #ff6666;
+    color: #fff;
+  }
+  

@@ -1,0 +1,13 @@
+.categories-items{
+    max-width: 80px;
+}
+
+.card .card-img-top {
+    object-fit: fill;
+    height: 150px;
+}
+
+.card .card-title{
+    font-size: 12px;
+}
+
